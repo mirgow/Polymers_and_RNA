@@ -11,7 +11,7 @@ Instructions are below for downloading the softwares used in the project and wor
 
 These assume a Windows OS, downloading and working with a Linux Subterminal (Personally worked through Windows Subsystem for Linux 2). Modify accordingly for Apple OS.  
 
-Windows Prerequisites
+Windows Workflow
 1. Ensure Windows Powershell is installed. 
 2. Ensure Windows Subsystem for Linux (WSL) is installed. Preferably WSL2. 
 3. Activate WSL2. 
